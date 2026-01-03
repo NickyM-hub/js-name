@@ -1,3 +1,14 @@
-# js-name
+# Boas vindas ao meu Perfil
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://nickym-hub.github.io/js-name/euNdex.html">NickyM</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/NickyM-hub/js-name">Nicole Moura</a> está licenciado sob <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_ em branco" rel="licença noopener noreferrer" style="display:inline-block;" >CC BY-SA 4.0<img style="height:22px!important; margem esquerda: 3px; alinhamento vertical: texto inferior;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important; margem esquerda: 3px; vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important; margem esquerda: 3px; vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+Meu nome é Nicole Moura da Conceição
+- Sou estudante no [Alura](https://www.alura.com.br) 
+- Estou desenvolvendo na linguagem Javascript, Python e Java;
+- Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos.
+
+  ### Você pode entrar em contato comigo 📫
+
+  moura2007nick@gmail.com
+  
+  mouranicole09@gmail.com
+
+  ![image](https://github.com/user-attachments/assets/8e50bdda-03fb-45fb-aba3-3214bbea5fb8)
