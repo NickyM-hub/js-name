@@ -1,7 +1,7 @@
 # Boas vindas ao meu Perfil
 
 Meu nome é Nicole Moura da Conceição
-- Sou estudante no [Alura](https://www.alura.com.br) 
+- Sou estudante da [Alura](https://www.alura.com.br) e do [Senac](https://www.sp.senac.br/senac-taboao-da-serra);
 - Estou desenvolvendo na linguagem Javascript, Python e Java;
 - Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos.
 
