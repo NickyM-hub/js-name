@@ -10,5 +10,3 @@ Meu nome é Nicole Moura da Conceição
   moura2007nick@gmail.com
   
   mouranicole09@gmail.com
-
-  ![image](https://github.com/user-attachments/assets/8e50bdda-03fb-45fb-aba3-3214bbea5fb8)
